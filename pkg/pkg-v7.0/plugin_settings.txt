@@ -1,0 +1,8 @@
+name=Enhanced Log File Monitor
+version=2.1
+platforms=windows linux solaris
+description=Add more custom variables to email alerts. Very useful for ticketing software integrations or customizing the alert messages with specific info.
+requiresAgentScript=false
+restartCore=true
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
