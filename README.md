@@ -64,8 +64,6 @@ None; no agent required
 
 * $NOTIFICATIONNUMBER$ - Number of alerts that have been sent out (escalations)
 
-* $OUTAGENUM$ - unique number for each outage. Will not go up during escalations.
-
 * $DAY$ - Alert date/time; day number (ex. 27)
 
 * $MONTH$ - Alert date/time; month (ex. July; 07)
