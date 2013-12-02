@@ -62,8 +62,6 @@ None; no agent required
 
 * $CUSTOMx$ - (1-4) Custom fields in each element
 
-* $NOTIFICATIONNUMBER$ - Number of alerts that have been sent out (escalations)
-
 * $DAY$ - Alert date/time; day number (ex. 27)
 
 * $MONTH$ - Alert date/time; month (ex. July; 07)
